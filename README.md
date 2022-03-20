@@ -4,8 +4,11 @@ Abstract—Improving the performance of autonomous vehicles in adverse weather c
 
 
 Naming rule: moving_dummy: Moving Data captured in conditions that the traffic target is a dummy
+
              moving_vehicle: Moving Data captured in conditions that the traffic target is a vehicle
+             
              static_dummy: Stationary Data captured in conditions that the traffic target is a dummy
+             
              static_vehicle: Stationary Data captured in conditions that the traffic target is a vehicle
 
              
